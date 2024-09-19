@@ -159,8 +159,8 @@ body {
   font-size: 22px;
   text-transform: uppercase;
   padding: 3px 3px 0 29px;
-  width: 720px;
-  word-spacing: 19px;
+  width: 700px;
+  word-spacing: 18px;
   color: #fff;
 }
 
@@ -305,9 +305,10 @@ body {
   grid-template-columns: 694px;
   left: 358px;
   top: 35px;
-  font-size: 27px;
+  font-size: 26px;
   text-transform: uppercase;
   align-items: center;
+  word-spacing: 5px;
 }
 
 .about__text {
