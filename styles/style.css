@@ -227,7 +227,6 @@ body {
   position: absolute;
   left: 359px;
   background-image: url(../images/card-lot-02.jpg);
-
 }
 
 .card__type_picture {
@@ -263,7 +262,6 @@ body {
   bottom: 0px;
   font-size: 19px;
   text-decoration-line: underline;
-  
 }
 
 .about {
@@ -292,7 +290,6 @@ body {
   height: 240px;
   background-color: #000000;
   border-radius: 50%;
-  
 }
 
 .about__logo-image {
