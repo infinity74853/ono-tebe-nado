@@ -30,7 +30,7 @@ body {
 }
 
 .header__links-list-item {
-  font-family: raleway;
+  font-family: 'Raleway';
 }
 
 .header__links-list-item_no-bullit {
@@ -38,7 +38,7 @@ body {
 }
 
 .header__link {
-  font-family: raleway;
+  font-family: 'Raleway';
   padding-left: 2px;
 }
 
@@ -75,13 +75,13 @@ body {
   font-size: 18px;
   width: 135px;
   height: 23px;
-  font-family: raleway;
+  font-family: 'Raleway';
   text-decoration: none;
   border-bottom: 1px black solid;
 }
 
 .address-amster {
-  font-family: raleway;
+  font-family: 'Raleway';
   padding-top: 5px;
   line-height: 1.2;
 }
@@ -157,7 +157,7 @@ body {
   left: 49px;
   top: 655px;
   justify-content: space-between;
-  font-family: raleway;
+  font-family: 'Raleway';
 }
 
 .cover__description-text {
@@ -314,7 +314,7 @@ body {
   left: 358px;
   top: 35px;
   font-size: 27px;
-  font-family: raleway;
+  font-family: 'Raleway';
   text-transform: uppercase;
   align-items: center;
 }
@@ -323,7 +323,7 @@ body {
   word-spacing: 1px;
   font-size: 20px;
   text-transform: none;
-  font-family: raleway;
+  font-family: 'Raleway';
 }
 
 .footer {
@@ -350,13 +350,13 @@ body {
   font-size: 18px;
   width: 135px;
   height: 23px;
-  font-family: raleway;
+  font-family: 'Raleway';
   text-decoration: none;
   border-bottom: 1px black solid;
 }
 
 .footer__menu-list-item {
-  font-family: raleway;
+  font-family: 'Raleway';
   line-height: 1.3;
 }
 
