@@ -2,8 +2,7 @@
 body {
   position: relative;
   width: 1100px;
-  min-height: 3028px;
-  }
+}
 
 main {
   width: 1100px;
@@ -13,7 +12,7 @@ main {
 .header {
   display: flex;
   width: 1100px;
-  padding: 91px 50px;
+  padding: 90px 50px;
 }
    
 .header__menu {
@@ -207,6 +206,8 @@ main {
 
 .card {
   display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   position: relative;
   background-size: cover;
   background-position: center;
@@ -226,7 +227,7 @@ main {
 }
 
 .card__title {
-  position: absolute;
+  position: relative;
   font-size: 22px;
   width: 334px;
   padding: 52px 40px 0;
@@ -236,12 +237,9 @@ main {
 }
 
 .card__text {
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-end;
   position: relative;
   width: 334px;
-  padding: 154px 40px 50px 40px;
+  padding: 0 40px 50px 40px;
   font-size: 20px;
   
   }  
@@ -263,7 +261,7 @@ main {
   display: grid;
   justify-items: center;
   width: 334px;
-  padding-bottom: 348px;
+  padding-bottom: 346px;
 }
 
 .about__logo {
